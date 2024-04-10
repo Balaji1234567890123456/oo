@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.lolly {
+  display: flex;
+  justify-content: space-between;
+}
+.polly {
+  display: flex;
+}
+p {
+  margin: 10px;
+  color:white;
+}

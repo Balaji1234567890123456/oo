@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.king {
+  display: flex;
+  flex-direction: column;
+}
+img {
+  height: 300px;
+  width: 70vh;
+  align-self: center;
+}
+.lol {
+  margin: 20px;
+}
+.kol {
+  display: flex;
+}
+.roy {
+  display: flex;
+  justify-content: space-between;
+}
+.pol {
+  display: flex;
+  flex-direction: column;
+}
+ul {
+  border: 2px solid #00e7ff;
+  border-radius: 5px;
+}
+h1 {
+  color: white;
+}
